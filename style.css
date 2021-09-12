@@ -32,7 +32,9 @@ header {
     text-decoration: none;
     margin-right: 60px;
   }
-  
+  .nav-link:hover {
+    color:black;
+  }
   #input {
      float:right;
   }
